@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Back-end Developer · Java & Spring Boot</b><br>
-  Systems Analysis and Development student · Brazil 🇧🇷
+  Systems Analysis and Development student at UCDB · Campo Grande, MS, Brazil 🇧🇷<br><br>
+  <a href="mailto:lucasdanielfaculdade@gmail.com"><img src="https://img.shields.io/badge/Email-lucasdanielfaculdade%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -12,7 +13,8 @@ I build back-end systems with **Java 21 and Spring Boot**, and I care about the 
 - 🎲 Currently building **[Mesa Pronta](https://github.com/Lucas-blip-png/mesa-pronta)**, a Discord bot that schedules tabletop RPG sessions with RabbitMQ reminders
 - 🧱 Maintaining **[ASUS RPG Platform](https://github.com/Lucas-blip-png/Asus-site)**, a full-stack virtual tabletop (Spring Boot + React)
 - 📚 Learning: Kafka, cloud deployment and observability
-- 🇧🇷 Português nativo · 🇺🇸 English for technical reading and writing
+- 🎯 Open to back-end internship and junior developer roles
+- 🇧🇷 Native Portuguese · 🇺🇸 Intermediate English (B1)
 
 ## 🛠️ Tech stack
 
