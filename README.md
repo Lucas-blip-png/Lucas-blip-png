@@ -68,8 +68,15 @@ Desktop tool that syncs the lyrics of the song you're playing to your Discord st
 
 ## 📈 GitHub activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-blip-png/Lucas-blip-png/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-blip-png/Lucas-blip-png/output/github-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Lucas-blip-png/Lucas-blip-png/output/github-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-blip-png/Lucas-blip-png/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-blip-png/Lucas-blip-png/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="Gráfico 3D de contribuições de Lucas-blip-png" src="https://raw.githubusercontent.com/Lucas-blip-png/Lucas-blip-png/main/profile-3d-contrib/profile-green-animate.svg" />
+  </picture>
+</p>
+
+## 📊 Development stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
