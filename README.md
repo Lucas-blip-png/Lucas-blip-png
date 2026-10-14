@@ -97,15 +97,13 @@ E-commerce of digital games modeled in PostgreSQL, built as an academic team pro
 ## 📊 Development stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 152.9 kB Used in GitHub's Storage 
  > 
-> 🏆 466 Contributions in the Year 2026
+> 🏆 467 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,21 +114,21 @@ E-commerce of digital games modeled in PostgreSQL, built as an academic team pro
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-🌆 Daytime                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-🌃 Evening                716 commits         ██████████████░░░░░░░░░░░   56.74 % 
-🌙 Night                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+🌆 Daytime                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+🌃 Evening                718 commits         ██████████████░░░░░░░░░░░   56.80 % 
+🌙 Night                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Tuesday                  93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Wednesday                157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Friday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Saturday                 272 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Sunday                   440 commits         █████████░░░░░░░░░░░░░░░░   34.87 % 
+Monday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Tuesday                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Wednesday                157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Friday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Saturday                 272 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Sunday                   440 commits         █████████░░░░░░░░░░░░░░░░   34.81 % 
 ```
 
 
@@ -174,5 +172,5 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Lucas-blip-png/Lucas-blip-png/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 03:45:03 UTC
+ Last Updated on 14/10/2026 12:17:47 UTC
 <!--END_SECTION:waka-->
