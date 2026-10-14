@@ -40,6 +40,18 @@ I build back-end systems with **Java 21 and Spring Boot**, and I care about the 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+**Languages & more**<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
+![Discord API](https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
+
 ## 🚀 Featured projects
 
 ### [🎲 Mesa Pronta](https://github.com/Lucas-blip-png/mesa-pronta)
@@ -65,6 +77,12 @@ Desktop tool that syncs the lyrics of the song you're playing to your Discord st
 - Packaged `.exe` with an all-in-one menu, tray icon, autostart and **12 UI languages**; Spotify API and Android versions
 
 `Python` `Windows` `Android`
+### [🎮 SteamQuest](https://github.com/HeFidelis/trabalho-bd2)
+E-commerce of digital games modeled in PostgreSQL, built as an academic team project at UCDB.
+- Owned the `fn_finalizar_pedido` transaction: order locking (`SELECT ... FOR UPDATE`), concurrent key reservation (`SKIP LOCKED`), status validation and payment generation.
+- Versioned with Git and developed collaboratively.
+
+`PostgreSQL` `SQL` `Git`
 
 ## 📈 GitHub activity
 
