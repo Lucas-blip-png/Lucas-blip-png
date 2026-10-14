@@ -79,4 +79,82 @@ Desktop tool that syncs the lyrics of the song you're playing to your Discord st
 ## 📊 Development stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 152.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 466 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+🌆 Daytime                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+🌃 Evening                716 commits         ██████████████░░░░░░░░░░░   56.74 % 
+🌙 Night                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Tuesday                  93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Wednesday                157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Friday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Saturday                 272 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Sunday                   440 commits         █████████░░░░░░░░░░░░░░░░   34.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Cuiaba
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
+C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Lucas-blip-png/Lucas-blip-png/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/10/2026 03:45:03 UTC
 <!--END_SECTION:waka-->
