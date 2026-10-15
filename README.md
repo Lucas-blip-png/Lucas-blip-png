@@ -106,6 +106,84 @@ My main project: 160+ commits, continuous deployment on Railway.
 ## Development stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 153.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 475 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+🌆 Daytime                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+🌃 Evening                719 commits         ██████████████░░░░░░░░░░░   56.84 % 
+🌙 Night                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Tuesday                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Wednesday                158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Friday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Saturday                 272 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+Sunday                   440 commits         █████████░░░░░░░░░░░░░░░░   34.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Cuiaba
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
+C++                      4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Lucas-blip-png/Lucas-blip-png/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/10/2026 11:59:51 UTC
 <!--END_SECTION:waka-->
 
 ---
