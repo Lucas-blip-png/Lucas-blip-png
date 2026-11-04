@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Back-end Developer · Java 21 · Spring Boot · PostgreSQL · RabbitMQ · Docker</b><br />
+  Open-source contributor in C/C++ and Vulkan (emulation and static recompilation)<br />
   Systems Analysis and Development student at UCDB · Campo Grande, MS, Brazil (UTC−4)<br />
   Open to back-end internships and junior developer roles — on-site, remote or international
 </p>
@@ -18,10 +19,26 @@
 I build back-end services with **Java 21 and Spring Boot**, and I focus on what keeps software correct under load: **automated tests against real infrastructure, concurrency control, asynchronous messaging and containerized delivery**.
 
 - **Recently shipped:** closed 6 IDOR (broken access control) issues and added Testcontainers integration tests, Swagger/OpenAPI and Flyway migrations to [ASUS RPG Platform](https://github.com/Lucas-blip-png/Asus-site)
-- **Building:** [Mesa Pronta](https://github.com/Lucas-blip-png/mesa-pronta), a Discord bot with RabbitMQ reminders
+- **Building:** [DKB Recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp), a static recompilation of a Switch 2 game to native Windows with Vulkan
 - **Learning:** Kafka, cloud deployment and observability
 - **Education:** Systems Analysis and Development, Universidade Católica Dom Bosco (UCDB), 2024 – 2027
 - **Languages:** Portuguese (native) · English (B1, intermediate)
+
+## Open source
+
+### [DKB Recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp): creator and maintainer
+
+- Static recompilation of *Donkey Kong Bananza* (Switch 2) into a native Windows x86-64 executable with a Vulkan renderer: the ARM64 code is translated to C ahead of time, with no emulator at run time
+- All 4,820 Ampere shader stages of the first 3D scene are lowered and translated to SPIR-V; the game boots, renders the tutorial and answers the controller
+- 130+ stars and 7 forks; I set the repository up for contributors (per-task issues, roadmap, testing guide) and have reviewed and merged 28 PRs from 4 people. No game files are included.
+
+`C` `C++` `Python` `Vulkan` `SPIR-V`
+
+### Pull requests merged in other people's projects (26)
+
+- **[Shadow of the Colossus PC](https://github.com/AjncSystem/ShadowOfTheColossus-PC/pulls?q=is%3Apr+author%3ALucas-blip-png+is%3Amerged)**, native port, C++/Vulkan (15): +6% FPS from the buffer cache, FSR 3 frame generation fixed on AMD RX 7000, textures on GTX 10xx by emulating barycentrics with a geometry shader. I also keep the [community fork](https://github.com/Lucas-blip-png/ShadowOfTheColossus-PC) (30 stars).
+- **[TotK PC Recomp](https://github.com/valentderah/totk-pc-recomp/pulls?q=is%3Apr+author%3ALucas-blip-png)**, C (7): Brazilian Portuguese menu and installer, thread pools sized by the process affinity mask, colour profiles, field of view, 32:9 layouts.
+- **[shadPS4](https://github.com/shadps4-emu/shadPS4/pulls?q=is%3Apr+author%3ALucas-blip-png+is%3Amerged)**, PS4 emulator, C++ (3): texture cache lookup, freeing nested indirect buffer frames, DualShock 4 touchpad height.
 
 ## Featured projects
 
@@ -52,6 +69,14 @@ My main project: 160+ commits, continuous deployment on Railway.
 - Integration tests with **Testcontainers**, Docker Compose and CI on GitHub Actions
 
 `Java 21` `Spring Boot` `JDA` `PostgreSQL` `RabbitMQ` `Testcontainers` `Docker`
+
+### [Pix Lite](https://github.com/Lucas-blip-png/pix-lite) — Pix-style payments API
+
+- **Idempotent transfers:** every transfer needs an `Idempotency-Key`; 20 concurrent requests with the same key produce exactly one debit
+- **No deadlocks:** both accounts are locked with `SELECT ... FOR UPDATE` in id order; a test runs 50 threads transferring in both directions and checks that no money is created or lost
+- Ledger-backed statements, RFC 7807 errors, Swagger UI; k6 load test at ~256 req/s with p95 of 257 ms and 0% errors
+
+`Java 21` `Spring Boot 4` `PostgreSQL` `Flyway` `Testcontainers` `k6` `Docker`
 
 ### [Radar de Vagas](https://github.com/Lucas-blip-png/radar-vagas) — job radar and application tracker
 
@@ -86,6 +111,12 @@ My main project: 160+ commits, continuous deployment on Railway.
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Systems**<br>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 **Front-end**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
