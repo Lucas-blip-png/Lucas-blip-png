@@ -30,7 +30,7 @@ I build back-end services with **Java 21 and Spring Boot**, and I focus on what 
 
 - Static recompilation of *Donkey Kong Bananza* (Switch 2) into a native Windows x86-64 executable with a Vulkan renderer: the ARM64 code is translated to C ahead of time, with no emulator at run time
 - All 4,820 Ampere shader stages of the first 3D scene are lowered and translated to SPIR-V; the game boots, renders the tutorial and answers the controller
-- 130+ stars and 7 forks; I set the repository up for contributors (per-task issues, roadmap, testing guide) and have reviewed and merged 28 PRs from 4 people. No game files are included.
+- 900+ stars and 49 forks; I set the repository up for contributors (per-task issues, roadmap, testing guide) and have reviewed and merged 28 PRs from 4 people. No game files are included.
 
 `C` `C++` `Python` `Vulkan` `SPIR-V`
 
